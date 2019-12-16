@@ -1,0 +1,16 @@
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\bin\Debug\Testpaper.Scanning.Common.dll
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\bin\Debug\Testpaper.Scanning.Common.pdb
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.csprojAssemblyReference.cache
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.Properties.Resources.resources
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.csproj.GenerateResource.cache
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.csproj.CoreCompileInputs.cache
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.dll
+C:\Users\YJP\source\repos\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.pdb
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\bin\Debug\Testpaper.Scanning.Common.dll
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\bin\Debug\Testpaper.Scanning.Common.pdb
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.csprojAssemblyReference.cache
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.Properties.Resources.resources
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.csproj.GenerateResource.cache
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.csproj.CoreCompileInputs.cache
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.dll
+E:\批量阅卷系统\Testpaper.Scanning\Testpaper.Scanning.Common\obj\Debug\Testpaper.Scanning.Common.pdb
